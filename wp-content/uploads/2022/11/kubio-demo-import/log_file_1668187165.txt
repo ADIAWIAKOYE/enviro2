@@ -1,0 +1,543 @@
+
+------
+Warn: Unable set memory_limit
+
+------
+[INFO] Prepare remote import
+
+
+---Downloaded files---
+The import files for: https://s3.us-west-2.amazonaws.com/static-assets.kubiobuilder.com/demo-sites/production/alternative-medicine-free/content.kds were successfully downloaded!
+
+------
+Warn: Unable set memory_limit
+
+------
+[INFO] Executing before import step: init
+
+
+------
+Warn: Unable set memory_limit
+
+------
+[INFO] Executing before import step: prepare_templates
+
+
+------
+Warn: Unable set memory_limit
+
+------
+[INFO] Executing before import step: prepare_template_parts
+
+
+------
+Warn: Unable set memory_limit
+
+------
+[INFO] Executing before import step: prepare_menus
+
+
+------
+Warn: Unable set memory_limit
+
+------
+[INFO] Executing before import step: prepare_pages
+
+
+------
+Warn: Unable set memory_limit
+
+------
+[INFO] Imported "Primary" (nav_menu)
+
+
+------
+[INFO] Imported "colibri-default-attachment" (Fichier média)
+
+
+------
+[INFO] Imported "c2a-1" (Fichier média)
+
+
+------
+[INFO] Imported "abt-2-tea-4023397_1920" (Fichier média)
+
+
+------
+[INFO] Imported "abt-1-antonika-chanel-9vGALFF1WmM-unsplash" (Fichier média)
+
+
+------
+[INFO] Imported "cropped-abt-1-antonika-chanel-9vGALFF1WmM-unsplash-1.jpg" (Fichier média)
+
+
+------
+[INFO] Imported "cropped-abt-2-tea-4023397_1920.jpg" (Fichier média)
+
+
+------
+[INFO] Imported "hero-2-massage-599532_1920" (Fichier média)
+
+
+------
+[INFO] Imported "accu-massage-1929064_1920" (Fichier média)
+
+
+------
+[INFO] Imported "acup-antonika-chanel-jmRbgqXLCI0-unsplash" (Fichier média)
+
+
+------
+[INFO] Imported "aroma-lemon-906141_1920" (Fichier média)
+
+
+------
+[INFO] Imported "ayurvedic-katherine-hanlon-bd_fCZhy_W8-unsplash" (Fichier média)
+
+
+------
+[INFO] Imported "balneo-love-romantic-bath-candlelight-3188" (Fichier média)
+
+
+------
+[INFO] Imported "chinese-jesper-aggergaard-CEM52sAHR80-unsplash" (Fichier média)
+
+
+------
+[INFO] Imported "philo-1-mandala-3593753" (Fichier média)
+
+
+------
+[INFO] Imported "philo-2-shaman-2897334" (Fichier média)
+
+
+------
+[INFO] Imported "philo-3-lesly-juarez-DFtjXYd5Pto-unsplash" (Fichier média)
+
+
+------
+[INFO] Imported "insta-2-serv-2-light-abstract-sky-star-cosmos-color-805871-pxhere.com" (Fichier média)
+
+
+------
+[INFO] Imported "hero-1-balance-110850" (Fichier média)
+
+
+------
+[INFO] Imported "cropped-c2a-1.jpg" (Fichier média)
+
+
+------
+[INFO] Imported "healer-3-2394797" (Fichier média)
+
+
+------
+[INFO] New AJAX call!
+
+
+------
+Warn: Unable set memory_limit
+
+------
+[INFO] Imported "Home" (Page)
+
+
+------
+[INFO] Imported "Lorem ipsum" (Article)
+
+
+------
+[INFO] Imported "Lorem Ipsum" (Article)
+
+
+------
+[INFO] Imported "Lorem Ipsum" (Article)
+
+
+------
+[INFO] Imported "kubio-featured-image" (Fichier média)
+
+
+------
+[INFO] Imported "About" (Page)
+
+
+------
+[INFO] Imported "Contact" (Page)
+
+
+------
+[INFO] Imported "" (Élément de menu de navigation)
+
+
+------
+[INFO] Imported "" (Élément de menu de navigation)
+
+
+------
+[INFO] Imported "" (Élément de menu de navigation)
+
+
+------
+[INFO] Imported "logo-alternative-medicine" (Fichier média)
+
+
+------
+[INFO] Imported "logo-alternative-medicine-negative" (Fichier média)
+
+
+------
+[INFO] Imported "logo-alternative-medicine-negative" (Fichier média)
+
+
+------
+[INFO] Imported "logo-alternative-medicine" (Fichier média)
+
+
+------
+[INFO] Imported "logo-alternative-medicine-negative" (Fichier média)
+
+
+------
+[INFO] Imported "logo-alternative-medicine" (Fichier média)
+
+
+------
+[INFO] Imported "Blog" (Page)
+
+
+------
+[WARNING] Failed to import "": Invalid post type 
+
+
+------
+[INFO] Imported "african-african-american-afro-american-beautiful-black-1453701-pxhere.com_.jpg" (Fichier média)
+
+
+------
+[INFO] Imported "kubio-featured-image" (Fichier média)
+
+
+------
+[INFO] Imported "contact" (Formulaire de contact)
+
+
+------
+[INFO] Imported "404" (Modèle)
+
+
+------
+[INFO] Imported "Archive Product" (Modèle)
+
+
+------
+[INFO] Imported "Front Page" (Modèle)
+
+
+------
+[INFO] Imported "Full Width" (Modèle)
+
+
+------
+[INFO] Imported "Index" (Modèle)
+
+
+------
+[INFO] Imported "Page" (Modèle)
+
+
+------
+[INFO] Imported "Search" (Modèle)
+
+
+------
+[INFO] Imported "Single Product" (Modèle)
+
+
+------
+[INFO] Imported "Single Post" (Modèle)
+
+
+------
+[INFO] Imported "Footer" (Élément de modèle)
+
+
+------
+[INFO] Imported "Front Header" (Élément de modèle)
+
+
+------
+[INFO] Imported "Header" (Élément de modèle)
+
+
+------
+[INFO] Imported "Sidebar" (Élément de modèle)
+
+
+------
+[INFO] Imported "Page With Left Sidebar" (Modèle)
+
+
+------
+[INFO] Imported "Page With Right Sidebar" (Modèle)
+
+
+------
+[INFO] Imported "Page Sidebar" (Élément de modèle)
+
+
+------
+[INFO] Imported "Custom Styles" (Styles globaux)
+
+
+------
+[INFO] Posts post processing
+
+
+------
+[INFO] Create term `elevate-wp` in `wp_theme`
+
+
+------
+[WARNING] Could not find the author for "kubio-default-attachment-1.jpg" (post #48)
+
+
+------
+[WARNING] Could not find the author for "c2a-1-1.jpg" (post #49)
+
+
+------
+[WARNING] Could not find the author for "abt-2-tea-4023397_1920-1.jpg" (post #50)
+
+
+------
+[WARNING] Could not find the author for "abt-1-antonika-chanel-9vGALFF1WmM-unsplash-1-1.jpg" (post #51)
+
+
+------
+[WARNING] Could not find the author for "cropped-abt-1-antonika-chanel-9vGALFF1WmM-unsplash-1-1.jpg" (post #52)
+
+
+------
+[WARNING] Could not find the author for "cropped-abt-2-tea-4023397_1920-1.jpg" (post #53)
+
+
+------
+[WARNING] Could not find the author for "hero-2-massage-599532_1920-1.jpg" (post #54)
+
+
+------
+[WARNING] Could not find the author for "accu-massage-1929064_1920-1.jpg" (post #55)
+
+
+------
+[WARNING] Could not find the author for "acup-antonika-chanel-jmRbgqXLCI0-unsplash-1.jpg" (post #56)
+
+
+------
+[WARNING] Could not find the author for "aroma-lemon-906141_1920-1.jpg" (post #57)
+
+
+------
+[WARNING] Could not find the author for "ayurvedic-katherine-hanlon-bd_fCZhy_W8-unsplash-1.jpg" (post #58)
+
+
+------
+[WARNING] Could not find the author for "balneo-love-romantic-bath-candlelight-3188-1.jpg" (post #59)
+
+
+------
+[WARNING] Could not find the author for "chinese-jesper-aggergaard-CEM52sAHR80-unsplash-1.jpg" (post #60)
+
+
+------
+[WARNING] Could not find the author for "philo-1-mandala-3593753-1.jpg" (post #61)
+
+
+------
+[WARNING] Could not find the author for "philo-2-shaman-2897334-1.jpg" (post #62)
+
+
+------
+[WARNING] Could not find the author for "philo-3-lesly-juarez-DFtjXYd5Pto-unsplash-1.jpg" (post #63)
+
+
+------
+[WARNING] Could not find the author for "insta-2-serv-2-light-abstract-sky-star-cosmos-color-805871-pxhere.com_-1.jpg" (post #64)
+
+
+------
+[WARNING] Could not find the author for "hero-1-balance-110850-1.jpg" (post #65)
+
+
+------
+[WARNING] Could not find the author for "cropped-c2a-1-1.jpg" (post #66)
+
+
+------
+[WARNING] Could not find the author for "healer-3-2394797-1.jpg" (post #67)
+
+
+------
+[WARNING] Could not find the author for "Home" (post #77)
+
+
+------
+[WARNING] Could not find the author for "Lorem ipsum" (post #8)
+
+
+------
+[WARNING] Could not find the author for "Lorem Ipsum" (post #9)
+
+
+------
+[WARNING] Could not find the author for "Lorem Ipsum" (post #10)
+
+
+------
+[WARNING] Could not find the author for "kubio-featured-image.jpg" (post #78)
+
+
+------
+[WARNING] Could not find the author for "About" (post #393)
+
+
+------
+[WARNING] Could not find the author for "Contact" (post #395)
+
+
+------
+[WARNING] Could not find the author for "" (post #397)
+
+
+------
+[WARNING] Could not find the author for "" (post #398)
+
+
+------
+[WARNING] Could not find the author for "" (post #400)
+
+
+------
+[WARNING] Could not find the author for "logo-alternative-medicine-3.png" (post #401)
+
+
+------
+[WARNING] Could not find the author for "logo-alternative-medicine-negative-3.png" (post #402)
+
+
+------
+[WARNING] Could not find the author for "logo-alternative-medicine-negative-1-1.png" (post #403)
+
+
+------
+[WARNING] Could not find the author for "logo-alternative-medicine-1-1.png" (post #404)
+
+
+------
+[WARNING] Could not find the author for "logo-alternative-medicine-negative-2-1.png" (post #405)
+
+
+------
+[WARNING] Could not find the author for "logo-alternative-medicine-2-1.png" (post #406)
+
+
+------
+[WARNING] Could not find the author for "Blog" (post #922)
+
+
+------
+[WARNING] Could not find the author for "african-african-american-afro-american-beautiful-black-1453701-pxhere.com_-1.jpg" (post #923)
+
+
+------
+[WARNING] Could not find the author for "kubio-featured-image.jpg" (post #924)
+
+
+------
+[WARNING] Could not find the author for "contact" (post #925)
+
+
+------
+[WARNING] Could not find the author for "404" (post #955)
+
+
+------
+[WARNING] Could not find the author for "Archive Product" (post #956)
+
+
+------
+[WARNING] Could not find the author for "Front Page" (post #957)
+
+
+------
+[WARNING] Could not find the author for "Full Width" (post #958)
+
+
+------
+[WARNING] Could not find the author for "Index" (post #959)
+
+
+------
+[WARNING] Could not find the author for "Page" (post #960)
+
+
+------
+[WARNING] Could not find the author for "Search" (post #961)
+
+
+------
+[WARNING] Could not find the author for "Single Product" (post #962)
+
+
+------
+[WARNING] Could not find the author for "Single Post" (post #963)
+
+
+------
+[WARNING] Could not find the author for "Footer" (post #964)
+
+
+------
+[WARNING] Could not find the author for "Front Header" (post #966)
+
+
+------
+[WARNING] Could not find the author for "Header" (post #967)
+
+
+------
+[WARNING] Could not find the author for "Sidebar" (post #968)
+
+
+------
+[WARNING] Could not find the author for "Page With Left Sidebar" (post #1044)
+
+
+------
+[WARNING] Could not find the author for "Page With Right Sidebar" (post #1045)
+
+
+------
+[WARNING] Could not find the author for "Page Sidebar" (post #1046)
+
+
+------
+[WARNING] Could not find the author for "Custom Styles" (post #1049)
+
+
+------
+[INFO] Starting remapping of featured images
+
+
+------
+[INFO] Remapping featured image ID 15 to new ID 78 for post ID 8
+
+
+------
+[INFO] Remapping featured image ID 15 to new ID 78 for post ID 9
+
+
+------
+[INFO] Remapping featured image ID 15 to new ID 78 for post ID 10
+
